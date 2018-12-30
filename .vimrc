@@ -82,3 +82,4 @@ nnoremap <F5> :!./testBuild<CR>
 nnoremap <S-F5> :!gdb testBuild<CR>
 
 set spell spelllang=en_us
+set completeopt-=preview
