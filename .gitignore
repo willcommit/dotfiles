@@ -1,0 +1,12 @@
+# Ignore it all
+/*
+
+# But..
+!.gitignore
+!.xinitrc
+
+/.config/*
+!/.config/
+!.config/i3/
+!.config/i3status/
+
